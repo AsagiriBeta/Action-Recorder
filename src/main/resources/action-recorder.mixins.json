@@ -3,12 +3,9 @@
   "minVersion": "0.8",
   "package": "asagiribeta.actionRecorder.mixin",
   "compatibilityLevel": "JAVA_21",
-  "mixins": [
-  ],
+  "mixins": [],
   "injectors": {
     "defaultRequire": 1
-  },
-  "overwrites": {
-    "requireAnnotations": true
   }
 }
+
